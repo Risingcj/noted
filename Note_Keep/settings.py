@@ -84,7 +84,7 @@ DATABASES = {
     }
 }
 
-DATABASES['defualt'] = dj_database_url.parse('postgresql://noted:T8FeSg1kIBPldutGVc5sePCoYpzIHrJX@dpg-cpv7cf1u0jms73am3gd0-a.oregon-postgres.render.com/noted_iwts')
+# DATABASES['defualt'] = dj_database_url.parse('postgresql://noted:T8FeSg1kIBPldutGVc5sePCoYpzIHrJX@dpg-cpv7cf1u0jms73am3gd0-a.oregon-postgres.render.com/noted_iwts')
 
 
 # Password validation
